@@ -1,4 +1,4 @@
 # C-
 My first C++ programmes.
 <br>
-Author- Tushar Panjrath
+Author- Tushar panjrath
